@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/github/followers/aksh0001?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/aksh00001?label=Followers&style=social" />
   <img src="https://img.shields.io/badge/Focus-Interactive%20Media-blueviolet" />
 </p>
 
@@ -51,12 +51,16 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 ## 📊 **GitHub Activity**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aksh0001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0001&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aksh00001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh00001&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 🐍 My Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aksh00001/aksh00001/output/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
