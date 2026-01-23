@@ -56,7 +56,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 </p>
 
 ### 🐍 My Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/aksh0001/aksh0001/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aksh0001/aksh0001/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
