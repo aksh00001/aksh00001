@@ -1,97 +1,82 @@
 # 👋 Hey there! I'm **Akshdeep Singh**
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=2500&pause=800&color=22A7F0&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Designer;Programmer;Web+Developer;Tech+Enthusiast" />
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=700&lines=Game+Developer;3D+Designer;C%2B%2B+%2F+C%23+Programmer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub! I'm passionate about designing games, building interactive 3D environments, and developing clean, efficient code. I love exploring new technologies and turning creative ideas into reality.
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/aksh0001?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Focus-Interactive%20Media-blueviolet" />
+</p>
 
 ---
 
 ## 🚀 **About Me**
 
-* 🎮 I create games and interactive experiences.
-* 🎨 I design 3D models & visual environments.
-* 💻 I write code for games, tools, and websites.
-* 🌱 Currently learning **TypeScript**, **React**, and advanced **game physics**.
+I bridge the gap between **code** and **creativity**. Whether it's optimizing a C++ physics engine or sculpting high-poly assets in Blender, I thrive on building immersive digital worlds.
+
+* 🎮 **Game Dev:** Specialized in Unity & Unreal Engine.
+* 🎨 **3D Art:** High-fidelity modeling and environment design.
+* 💻 **Web:** Building high-performance frontends with React & Next.js.
+* 🌱 **Current Quest:** Mastering Shader programming and Advanced TypeScript.
 
 ---
 
 ## 🧠 **Skills & Technologies**
 
-### 🔤 **Programming Languages**
+### 🕹️ Engine & Graphics
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,threejs&theme=dark" />
+  </a>
+</p>
 
-<div>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts" />
-</div>
+### 💻 Programming & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,python&theme=dark" />
+  </a>
+</p>
 
----
-
-### ⚙️ **Frameworks & Libraries**
-
-<div>
-<img src="https://skillicons.dev/icons?i=react,vite,next" />
-</div>
-
----
-
-### 🎮 **Game Development**
-
-<div>
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
-</div>
-
----
-
-### 🎨 **Design & 3D Tools**
-
-<div>
-<img src="https://skillicons.dev/icons?i=blender,figma" />
-</div>
+### 🛠️ Tools & Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps&theme=dark" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ **Tools & Platforms**
+## 📊 **GitHub Activity**
 
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aksh0001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0001&layout=compact&theme=radical&hide_border=true" />
+</p>
 
----
-
-## 🔥 **Cool Animated Header**
-
-
-<h2 align="center">
-  Hello, I'm <b>Akshdeep Singh</b>
-  <br>
-  <span>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23F75C7E&size=30&center=true&vCenter=true&width=550&lines=Game+Developer;3D+Artist;Programmer;Web+Developer;Tech+Explorer" />
-  </span>
-</h2>
-
+### 🐍 Contribution Snake
+![Snake animation](https://github-0x1a.vercel.app/api/snake?github_user=aksh0001&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9&color_snake=%2322A7F0)
 
 ---
 
-## 📊 **GitHub Stats**
-
-> *(You can uncomment these once you add them to your GitHub README)*
-
-
-![](https://github-readme-stats.vercel.app/api?username=aksh0001&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0001&layout=compact&theme=radical)
-
+## 🛠️ **Current Focus**
+- [ ] 🏗️ Building a procedurally generated dungeon crawler.
+- [ ] 🧪 Experimenting with WebGL/Three.js for portfolio interactions.
+- [ ] 📚 Writing a blog on "Efficient C++ for Game Engines."
 
 ---
 
 ## 📫 **Connect With Me**
 
-* 🌐 Portfolio: *(add link here)*
-* 📧 Email: *(add your email here)*
-* 🐦 Twitter: *(optional)*
-* 💼 LinkedIn: *(optional)*
+<p align="left">
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
-✨ *Feel free to fork this README or ask for more customization!*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
