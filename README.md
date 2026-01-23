@@ -55,8 +55,8 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0001&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-### 🐍 Contribution Snake
-![Snake animation](file:///C:/Users/akshu/Downloads/github-contribution-grid-snake.svg)
+### 🐍 My Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/aksh0001/aksh0001/output/github-contribution-grid-snake.svg)
 
 ---
 
