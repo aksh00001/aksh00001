@@ -56,7 +56,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 </p>
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github-0x1a.vercel.app/api/snake?github_user=aksh0001&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9&color_snake=%2322A7F0)
+![Snake animation](https://raw.githubusercontent.com/aksh0001/aksh0001/output/github-contribution-grid-snake.svg)
 
 ---
 
