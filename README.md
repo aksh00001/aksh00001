@@ -51,8 +51,11 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 ## 📊 **GitHub Activity**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aksh00001&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh00001&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aksh00001&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh00001&theme=radical&hide_border=true" />
 </p>
 
 ### 🐍 My Contribution Snake
