@@ -18,15 +18,6 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ---
 
-## 📊 **GitHub Activity**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aksh00001&layout=compact&theme=radical&hide_border=true&v=2.0" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh00001&theme=radical&hide_border=true&mode=daily&date_format=M%20j%5B%2C%20Y%5D&cache_buster=force_recal_final" />
-</p>
 
 ### 🐍 My Contribution Snake
 <picture>
