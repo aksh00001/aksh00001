@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: aksh00001
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_ignored: html, css
@@ -30,4 +30,4 @@ jobs:
           plugin_habits_trim: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
