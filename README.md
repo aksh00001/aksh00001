@@ -23,7 +23,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 </p>
 
 <p align="center">
-  <img width="82%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/portal_main.svg" alt="Akshdeep System portal" />
+  <img width="82%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/portal_main.svg?v=2" alt="Akshdeep System portal" />
 </p>
 
 <p align="center">
