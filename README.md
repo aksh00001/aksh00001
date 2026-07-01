@@ -41,7 +41,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
       <img src="https://img.shields.io/badge/Playtime-22.6%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="22.6 Hours" />
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/2483190/header.jpg" alt="Forza Horizon 6" width="100%" />
+      <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/2.jpg" alt="Forza Horizon 6" width="100%" />
       <br />
       <b>Forza Horizon 6</b>
       <br />
@@ -57,14 +57,14 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/3768760/header.jpg" alt="007 First Light" width="100%" />
+      <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/3.jpg" alt="007 First Light" width="100%" />
       <br />
       <b>007 First Light</b>
       <br />
       <img src="https://img.shields.io/badge/Playtime-6.5%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="6.5 Hours" />
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/4704690/header.jpg" alt="Meccha Chameleon" width="100%" />
+      <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/1.jpg" alt="Meccha Chameleon" width="100%" />
       <br />
       <b>Meccha Chameleon</b>
       <br />
