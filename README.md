@@ -11,7 +11,7 @@
     <a href="https://github.com/aksh00001"><img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=5F66E6" alt="GitHub"/></a>
 </div>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" /></p>
 
 ## 🚀 **About Me**
 
@@ -32,7 +32,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   <img width="32%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/code_forge.svg" alt="Code Forge" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" /></p>
 
 ### 🛠️ Tech Stack & Arsenal
 <p align="center">
@@ -41,14 +41,14 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   </a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" /></p>
 
 ### 🚀 My Contribution Shooter
 <p align="center">
   <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/game.gif">
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" /></p>
 
 ### 🎮 Currently Playing
 <p align="center">
@@ -104,7 +104,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh00001&label=Profile%20views&color=0e75b6&style=flat" alt="aksh00001" /> </p>
 
