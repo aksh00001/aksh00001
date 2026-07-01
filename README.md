@@ -18,6 +18,14 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ---
 
+### 🛠️ Tech Stack & Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,unity,blender,py,aws,git,github,vscode,windows,linux,powershell,githubactions,cmake&perline=5" />
+  </a>
+</p>
+
+---
 
 ### 🚀 My Contribution Shooter
 <p align="center">
