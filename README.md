@@ -28,7 +28,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ### 🎮 Currently Playing
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+26+-+22.6+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours;007+First+Light+-+6.5+Hours;Meccha+Chameleon+-+4.2+Hours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+26+-+22.6+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours;007+First+Light+-+6.5+Hours;Meccha+Chameleon+-+4.2+Hours;Black+Myth:+Wukong+-+29+Hours" alt="Typing SVG" />
 </p>
 
 <table align="center">
@@ -71,6 +71,11 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
       <img src="https://img.shields.io/badge/Playtime-4.2%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="4.2 Hours" />
     </td>
     <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/header.jpg" alt="Black Myth: Wukong" width="100%" />
+      <br />
+      <b>Black Myth: Wukong</b>
+      <br />
+      <img src="https://img.shields.io/badge/Playtime-29%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="29 Hours" />
     </td>
   </tr>
 </table>
