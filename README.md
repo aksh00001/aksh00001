@@ -34,7 +34,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/4148930/header.jpg" alt="F1 26" width="100%" />
+      <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/4.jpg" alt="F1 26" width="100%" />
       <br />
       <b>F1 26</b>
       <br />
