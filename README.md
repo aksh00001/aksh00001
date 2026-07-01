@@ -28,7 +28,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ### 🎮 Currently Playing
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+25+-+22.5+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+25+-+22.5+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours;007+First+Light+-+6.5+Hours;Meccha+Chameleon+-+4.2+Hours" alt="Typing SVG" />
 </p>
 
 <table align="center">
@@ -53,6 +53,24 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
       <b>God of War Ragnarök</b>
       <br />
       <img src="https://img.shields.io/badge/Playtime-32%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="32 Hours" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg" alt="007 First Light" width="100%" />
+      <br />
+      <b>007 First Light</b>
+      <br />
+      <img src="https://img.shields.io/badge/Playtime-6.5%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="6.5 Hours" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg" alt="Meccha Chameleon" width="100%" />
+      <br />
+      <b>Meccha Chameleon</b>
+      <br />
+      <img src="https://img.shields.io/badge/Playtime-4.2%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="4.2 Hours" />
+    </td>
+    <td align="center" width="33%">
     </td>
   </tr>
 </table>
