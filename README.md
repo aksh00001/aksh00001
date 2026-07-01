@@ -1,14 +1,15 @@
-# 👋 Hey there! I'm **Akshdeep Singh**
+<div align="center">
+    <img width=300 src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wanderer!+I'm+Akshdeep!" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=700&lines=Game+Developer;3D+Designer;C%2B%2B+%2F+C%23+Programmer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/github/followers/aksh00001?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Focus-Interactive%20Media-blueviolet" />
-</p>
+<div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="https://github.com/aksh00001"><img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=5F66E6" alt="GitHub"/></a>
+</div>
 
 ---
 
