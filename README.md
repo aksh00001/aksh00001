@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Instagram-f5c2e7?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
     <a href="https://github.com/aksh00001"><img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=5F66E6" alt="GitHub"/></a>
 </div>
 
