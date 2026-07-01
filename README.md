@@ -1,3 +1,10 @@
+<!-- 
+=============================================================================
+WARNING: DO NOT COPY THIS PROFILE.
+THIS PROFILE IS CUSTOM DESIGNED AND BUILT EXCLUSIVELY FOR AKSHDEEP SINGH.
+UNAUTHORIZED COPYING, REPRODUCTION, OR REUSE OF THIS CODE IS STRICTLY PROHIBITED.
+=============================================================================
+-->
 <div align="center">
     <img width=300 src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif"/>    
     <br/>
@@ -111,4 +118,11 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<br>
+<p align="center">
+  <samp>
+    &copy; 2026 Akshdeep Singh. Custom designed profile. Do not copy or reuse without explicit permission.
+  </samp>
 </p>
