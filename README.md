@@ -28,17 +28,17 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ### 🎮 Currently Playing
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+25+-+22.5+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours;007+First+Light+-+6.5+Hours;Meccha+Chameleon+-+4.2+Hours" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&pause=1000&color=22A7F0&center=true&vCenter=true&width=600&lines=F1+26+-+22.6+Hours;Forza+Horizon+6+-+49+Hours;God+of+War+Ragnarök+-+32+Hours;007+First+Light+-+6.5+Hours;Meccha+Chameleon+-+4.2+Hours" alt="Typing SVG" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/2488620/header.jpg" alt="F1 25" width="100%" />
+      <img src="https://cdn.akamai.steamstatic.com/steam/apps/4148930/header.jpg" alt="F1 26" width="100%" />
       <br />
-      <b>F1 25</b>
+      <b>F1 26</b>
       <br />
-      <img src="https://img.shields.io/badge/Playtime-22.5%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="22.5 Hours" />
+      <img src="https://img.shields.io/badge/Playtime-22.6%20Hours-blueviolet?style=for-the-badge&logo=steam" alt="22.6 Hours" />
     </td>
     <td align="center" width="33%">
       <img src="https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg" alt="Forza Horizon 6" width="100%" />
