@@ -16,6 +16,21 @@
 ## 🚀 **About Me**
 
 I bridge the gap between **code** and **creativity**. Whether it's optimizing a C++ physics engine or sculpting high-poly assets in Blender, I thrive on building immersive digital worlds.
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
+
+<p align="center">
+  <img width="82%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/portal_main.svg" alt="Akshdeep System portal" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/game_lab.svg" alt="Game Lab" />
+  <img width="32%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/3d_lab.svg" alt="3D Lab" />
+  <img width="32%" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/assets/code_forge.svg" alt="Code Forge" />
+</p>
 
 ---
 
