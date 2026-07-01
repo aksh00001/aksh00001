@@ -19,12 +19,10 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 ---
 
 
-### 🐍 My Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aksh00001/aksh00001/output/github-contribution-grid-snake.svg">
-</picture>
+### 🚀 My Contribution Shooter
+<p align="center">
+  <img alt="GitHub Space Shooter" src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/game.gif">
+</p>
 
 ---
 
