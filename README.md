@@ -82,6 +82,15 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh00001&label=Profile%20views&color=0e75b6&style=flat" alt="aksh00001" /> </p>
+
+### 🌆 My 3D Contribution City
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aksh00001/aksh00001/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution City" width="100%" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
