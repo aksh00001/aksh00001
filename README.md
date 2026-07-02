@@ -111,13 +111,7 @@ I bridge the gap between **code** and **creativity**. Whether it's optimizing a 
   </tr>
 </table>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksh00001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="aksh00001's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh00001&theme=tokyonight&hide_border=true&background=0D1117" alt="aksh00001's Streak" />
-</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh00001&label=Profile%20views&color=0e75b6&style=flat" alt="aksh00001" /> </p>
 
